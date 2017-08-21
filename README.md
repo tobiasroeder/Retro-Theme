@@ -3,7 +3,7 @@ Retro-Theme for Brackets
 
 Created by Tobias Röder
 <p>
-  <img width="337.03703703704" height="130" src="https://github.com/tobiasroeder/Retro-Theme/blob/master/imgs/logo.png">
+  <img width="411.24999999999" height="130" src="https://github.com/tobiasroeder/Retro-Theme/blob/master/imgs/logo.png">
 </p>
 
 #
