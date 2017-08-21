@@ -1,0 +1,15 @@
+{
+    "name": "tobiasroeder.retro",
+    "title": "Retro",
+    "description": "This Theme is a Retro Edition from Brackets!",
+    "homepage": "https://github.com/tobiasroeder/Retro-Theme",
+    "version": "1.0.0",
+    "author": "Tobias Röder <rtobi8484@gmail.com> (http://tobias-roeder.de)",
+    "license": "MIT",
+    "theme": {
+        "file": "retro.css",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": ["theme, retro"]
+}
