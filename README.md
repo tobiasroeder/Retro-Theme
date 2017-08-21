@@ -2,6 +2,7 @@ Retro-Theme for Brackets
 ========================
 
 Created by Tobias Röder
+![Retro-Theme Logo](https://github.com/tobiasroeder/Retro-Theme/blob/master/imgs/logo.png)
 
 ## HTML
 ![HTML Screenshot](https://github.com/tobiasroeder/Retro-Theme/blob/master/imgs/html.png)
