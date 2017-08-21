@@ -1,0 +1,131 @@
+/* Editor */
+.CodeMirror,
+.CodeMirror .CodeMirror-scroll,
+.not-editor,
+.dropdown-menu.dropdownbutton-popup.dropdown-status-bar,
+.CodeMirror-foldmarker {
+    background-color: #faf4ed;
+}
+.CodeMirror-gutters {
+    background-color: #faf4ed;
+}
+.not-editor {
+    background: #faf4ed url('https://7iu.de/brackets-theme/retro/no_content_bg.svg') no-repeat center 45%;
+}
+.CodeMirror-linenumber {
+	color: #d54523;
+}
+.CodeMirror-foldgutter-open:after {
+    color: #d19182;
+}
+.CodeMirror-foldgutter-folded:after{
+    color: #c4968b;
+}
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt, 
+.CodeMirror-gutter-background.CodeMirror-activeline-gutter, 
+.CodeMirror-activeline-background.CodeMirror-linebackground, {
+    background-color: #F7EADC;
+}
+.cm-m-null.CodeMirror-matchingbracket {
+    background-color: rgba(213,69,35,0.1);
+}
+.CodeMirror-cursors .CodeMirror-cursor {
+    border-left: 1px solid #b36804;
+}
+
+/* HTML */
+.CodeMirror, .cm-m-xml.cm-tag {
+    color: #d54523 !important;
+}
+.CodeMirror, .cm-m-xml.cm-string {
+    color: #a1995c !important;
+}
+.CodeMirror .cm-m-xml.cm-comment {
+    color: #c9c3b9 !important;
+}
+.CodeMirror .cm-m-xml {
+    color: #756745;
+}
+.CodeMirror .CodeMirror-matchingtag {
+    background-color: rgba(213,69,35,0.1) !important;
+}
+
+/* CSS */
+.CodeMirror-code .cm-m-css.cm-qualifier, .CodeMirror-gutter.CodeMirror-linenumbers {
+    color: #d54523 !important;
+}
+
+.CodeMirror-code .cm-m-css.cm-atom {
+    /*color: #5f4420;*/
+    color: #8f5e1d !important;
+}
+
+.CodeMirror-code .cm-m-css.cm-property {
+    color: #88b3b0 !important;
+}
+
+.CodeMirror-code .cm-m-css.cm-keyword {
+    color: #b19276 !important;
+}
+
+.CodeMirror-code .cm-m-css.cm-number {
+    color: #688a2f !important;
+}
+
+.CodeMirror-code .cm-m-css.cm-comment {
+    color: #c9c3b9 !important;
+}
+
+.CodeMirror-code .cm-m-css {
+    color: #756745;
+}
+
+.CodeMirror-code .cm-m-css.cm-builtin, .CodeMirror-code .cm-m-css.cm-tag {
+    /*color: #E5C88F;*/
+    color: #e8ac35;
+}
+.CodeMirror-code .cm-m-css.CodeMirror-matchingbracket {
+    background-color: rgba(213,69,35,0.1);
+}
+
+/* JS */
+.CodeMirror-code .cm-m-javascript.CodeMirror-matchingbracket {
+    background-color: rgba(213,69,35,0.1) !important;
+}
+.CodeMirror-code .cm-m-javascript.cm-property {
+    color: #88b3b0 !important;
+}
+.CodeMirror-code .cm-m-javascript.cm-keyword {
+    color: #b19276 !important;
+}
+.CodeMirror-code .cm-m-javascript.cm-string {
+    /*color: #6e4104;*/
+    color: #a1995c !important;
+}
+.CodeMirror-code .cm-m-javascript.cm-comment {
+    color: #c9c3b9 !important;
+}
+.CodeMirror-code .cm-m-javascript {
+    color: #756745;
+}
+
+/* PHP */
+.CodeMirror-code .cm-m-xml.cm-meta {
+    color: #756745 !important;
+}
+.CodeMirror-code .cm-m-clike.cm-variable-2 {
+    color: #2b2531 !important; 
+}
+.CodeMirror-code .cm-m-clike.cm-string {
+    color: #a1995c !important;
+}
+.CodeMirror-code .cm-m-clike.cm-builtin,
+.CodeMirror-code .cm-m-clike.cm-keyword {
+    color: #d54523 !important;
+}
+.CodeMirror-code .cm-m-clike.cm-number {
+    color: #688a2f !important;
+}
+.CodeMirror-code .cm-m-clike.cm-comment {
+    color: #c9c3b9 !important;
+}
