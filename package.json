@@ -8,7 +8,6 @@
     "license": "MIT",
     "theme": {
         "file": "retro.css",
-        "dark": false,
         "addModeClass": true
     },
     "keywords": ["theme","retro"]
