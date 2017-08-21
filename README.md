@@ -2,9 +2,7 @@ Retro-Theme for Brackets
 ========================
 
 Created by Tobias Röder
-<p align="center">
-  <img width="337.03703703704" height="130" src="https://github.com/tobiasroeder/Retro-Theme/blob/master/imgs/logo.png">
-</p>
+<img width="337.03703703704" height="130" src="https://github.com/tobiasroeder/Retro-Theme/blob/master/imgs/logo.png">
 
 ## HTML
 ![HTML Screenshot](https://github.com/tobiasroeder/Retro-Theme/blob/master/imgs/html.png)
