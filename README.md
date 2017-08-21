@@ -12,3 +12,8 @@ Created by Tobias Röder
 
 ## JS
 ![JS Screenshot](https://github.com/tobiasroeder/Retro-Theme/blob/master/imgs/js.png)
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
