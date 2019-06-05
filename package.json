@@ -4,7 +4,7 @@
     "description": "This Theme is a Retro Edition from Brackets!",
     "homepage": "https://github.com/tobiasroeder/Retro-Theme",
     "version": "1.0.1",
-    "author": "Tobias Röder <rtobi8484@gmail.com> (http://tobias-roeder.de)",
+    "author": "Tobias Röder <tr@7iu.de> (https://tobias-roeder.de)",
     "license": "MIT",
     "theme": {
         "file": "retro.css",
