@@ -11,10 +11,10 @@ Created by Tobias Röder
 </p>
 
 ## HTML
-![HTML Screenshot](imgs/html.png)
+![HTML Screenshot](https://raw.githubusercontent.com/tobiasroeder/Retro-Theme/master/imgs/html.png)
 
 ## CSS
-![CSS Screenshot](imgs/css.png)
+![CSS Screenshot](https://raw.githubusercontent.com/tobiasroeder/Retro-Theme/master/imgs/css.png)
 
 ## JS
-![JS Screenshot](imgs/js.png)
+![JS Screenshot](https://raw.githubusercontent.com/tobiasroeder/Retro-Theme/master/imgs/js.png)
